@@ -5,6 +5,6 @@
     <title>Web Development</title>
   </head>
   <body>
-    <h1>Hello world</h1>
+    <p>Hello world</p>
   </body>
 </html>
